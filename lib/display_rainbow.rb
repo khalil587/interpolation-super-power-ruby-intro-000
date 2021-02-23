@@ -6,5 +6,5 @@ B = ":blue"
 I = ":indigo"
 V = ":violet"
 rainbow = ["R", "O", "Y", "G", "B", "I", "V"]
-def 
-display_rainbow
+def display_rainbow
+  puts 
