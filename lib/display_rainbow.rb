@@ -5,6 +5,6 @@ G = ":green"
 B = ":blue"
 I = ":indigo"
 V = ":violet"
-rainbow = ["R", "O", "Y", "G", "B", "I", "V"]
+ = ["R", "O", "Y", "G", "B", "I", "V"]
 def display_rainbow
   puts 
