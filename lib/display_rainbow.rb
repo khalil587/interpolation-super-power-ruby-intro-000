@@ -1,4 +1,4 @@
 colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 def display_rainbow (aura)
-  puts "R:#{aura[0]}, O: #{aura[1]}, Y: #{colors[2]}, G: #{colors[3]}, B: #{colors[4]}, I: #{colors[5]}, V: #{colors[6]}""
+  puts "R:#{aura[0]}, O: #{aura[1]}, Y: #{aura[2]}, G: #{aura[3]}, B: #{aura[4]}, I: #{aura[5]}, V: #{aura[6]}"
 end
